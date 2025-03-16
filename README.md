@@ -14,10 +14,10 @@ Un proyecto en JavaScript donde puedes jugar a sortear un amigo secreto entre un
 ## ⚡ Cómo Ejecutar el Proyecto
 1️⃣ Clona este repositorio o descargalo:
 
-bash
-Copiar
-Editar
-git clone https://github.com/tuusuario/tu-repositorio.git
+- bash
+- Copiar
+- Editar
+git clone [(https://github.com/abrosechapel/Amigo_Secreto)]
 
 2️⃣ Abre el archivo index.html en tu navegador.
 
