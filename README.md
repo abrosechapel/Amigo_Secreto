@@ -1,4 +1,4 @@
-🎯 ## Juego del Amigo Secreto
+🎯 ##Juego del Amigo Secreto
 Un proyecto en JavaScript donde puedes jugar a sortear un amigo secreto entre una lista de nombres.
 
 🚀 Características
