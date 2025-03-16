@@ -2,9 +2,9 @@
 Un proyecto en JavaScript donde puedes jugar a sortear un amigo secreto entre una lista de nombres.
 
 ## 🚀 Características
--🔹 Juego del número secreto con pistas y contador de intentos.
--🔹 Botón de reinicio para jugar nuevamente.
--🔹 Sorteo de amigo secreto con lista de nombres.
+🔹 &nbsp;Juego del amigo secreto.
+🔹 &nbsp;Botón de reinicio para jugar nuevamente.
+🔹 &nbsp;Sorteo de amigo secreto con lista de nombres.
 
 ## 📌 Tecnologías Utilizadas
 - HTML5
